@@ -1,0 +1,17 @@
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\bin\Debug\net8.0-windows\CustomMouseApp.exe
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\bin\Debug\net8.0-windows\CustomMouseApp.deps.json
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\bin\Debug\net8.0-windows\CustomMouseApp.runtimeconfig.json
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\bin\Debug\net8.0-windows\CustomMouseApp.dll
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\bin\Debug\net8.0-windows\CustomMouseApp.pdb
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\CustomMouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\CustomMouseApp.AssemblyInfoInputs.cache
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\CustomMouseApp.AssemblyInfo.cs
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\CustomMouseApp.csproj.CoreCompileInputs.cache
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\CustomMouseApp.dll
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\refint\CustomMouseApp.dll
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\CustomMouseApp.pdb
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\CustomMouseApp.genruntimeconfig.cache
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\ref\CustomMouseApp.dll
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\CustomMouseApp.csproj.AssemblyReference.cache
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\maxif\Downloads\CursorParty\CustomMouseApp\obj\Debug\net8.0-windows\CustomMo.2A3AC29D.Up2Date

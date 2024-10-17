@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KLWCl2ga2k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxif\\Downloads\\CursorParty\\CustomMouseApp\\CustomMouseApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxif\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
